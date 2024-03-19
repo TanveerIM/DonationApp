@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/aboutAppFragment"
+        android:title="About App"
+        android:icon="@drawable/ic_about"/>
+
+    <item
+        android:id="@+id/ratingAppFragment"
+        android:title="Rate App"
+        android:icon="@drawable/ic_star"/>
+    <item
+        android:id="@+id/inviteFriendFragment"
+        android:title="Invite A Friend"
+        android:icon="@drawable/ic_user"/>
+    <item
+        android:id="@+id/reportAProblemFragment"
+        android:title="Report A Problem"
+        android:icon="@drawable/ic_alert"/>
+    <item
+        android:id="@+id/settingsFragment"
+        android:title="Settings"
+        android:icon="@drawable/ic_setting"/>
+</menu>
