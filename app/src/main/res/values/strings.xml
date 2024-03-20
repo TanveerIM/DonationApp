@@ -6,4 +6,16 @@
     <string name="help_desc">Help the needy by giving out items\n to them easily.</string>
     <string name="skip">Skip</string>
     <string name="get_started">Get Started</string>
+    <string name="let_s_get_you_started">Let’s get you <font color="#1BDDAF">started!</font></string>
+    <string name="let_s_help_create_an_account">Let’s help create an account</string>
+    <string name="enter_full_name">Enter Full Name</string>
+    <string name="enter_email_address">Enter Email Address</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="or">OR</string>
+    <string name="register_with_fingerprint">Register with Fingerprint</string>
+    <string name="have_account">Have Account?</string>
+    <string name="login_here">Login Here</string>
+    <string name="welcome_back">Welcome <font color="#4169E1">Back!</font></string>
+    <string name="log_on_to_your_account">Log on to your account</string>
 </resources>
