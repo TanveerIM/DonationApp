@@ -18,4 +18,5 @@
     <string name="login_here">Login Here</string>
     <string name="welcome_back">Welcome <font color="#4169E1">Back!</font></string>
     <string name="log_on_to_your_account">Log on to your account</string>
+    <string name="log_in">Log In</string>
 </resources>
